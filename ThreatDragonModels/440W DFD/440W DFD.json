@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "440W DFD",
+    "owner": "Joselyne",
+    "description": "DFD"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DFD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
